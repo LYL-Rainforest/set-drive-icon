@@ -1,4 +1,4 @@
-module github.com/LYL-Rainforest/set-drive-icon
+module set-drive-icon
 
 go 1.26.1
 
